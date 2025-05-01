@@ -96,7 +96,7 @@ h1 > span {
       hsla(277, 79%, 39%, 0.733),
       hsla(278, 86%, 16%, 0.678)
     ),
-    url("/images/image-header-desktop.jpg");
+    url("./images/image-header-desktop.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
