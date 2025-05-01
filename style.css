@@ -133,6 +133,15 @@ h1 > span {
   .description {
     padding: 2.5em;
   }
+
+  .img {
+    background: linear-gradient(
+        hsla(277, 79%, 39%, 0.733),
+        hsla(278, 86%, 16%, 0.678)
+      ),
+      url("./images/image-header-mobile.jpg");
+    background-size: cover;
+  }
 }
 
 @media screen and (max-width: 450px) {
